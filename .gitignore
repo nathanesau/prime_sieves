@@ -1,0 +1,8 @@
+# ignore src for now (not ready)
+src/*
+
+# ignore docs for now (not ready)
+docs/*
+
+# ignore cmake files
+build
